@@ -34,7 +34,7 @@ The controller is a simple PID control that takes the error and its derivative t
 calculate the feedback torque. In the context of this simulation, simple PD control was effective
 to give small errors.
 
-## ODE Solver
+## ODE Solver (RungeKuttaFixedTime.m)
 This is a Runge Kutta rk45 fixed time solver I wrote.
 
 ## Main simulation file(main.m)
