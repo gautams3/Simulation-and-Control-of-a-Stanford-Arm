@@ -8,3 +8,5 @@
 
 #Original project zip file
 *.zip
+
+.DS_STORE
