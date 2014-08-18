@@ -1,0 +1,10 @@
+# Images
+*.png
+*.jpg
+
+# Word
+*.doc
+*.docx
+
+#Original project zip file
+*.zip
